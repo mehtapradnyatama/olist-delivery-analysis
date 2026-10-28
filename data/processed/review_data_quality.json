@@ -1,0 +1,70 @@
+[
+  {
+    "check_name": "delivered_orders_without_reviews",
+    "observed_count": 646
+  },
+  {
+    "check_name": "distinct_review_ids",
+    "observed_count": 98410
+  },
+  {
+    "check_name": "distinct_review_orders",
+    "observed_count": 98673
+  },
+  {
+    "check_name": "exact_duplicate_review_records",
+    "observed_count": 0
+  },
+  {
+    "check_name": "invalid_review_scores",
+    "observed_count": 0
+  },
+  {
+    "check_name": "latest_review_join_delivered_rows",
+    "observed_count": 96478
+  },
+  {
+    "check_name": "latest_review_join_distinct_delivered_orders",
+    "observed_count": 96478
+  },
+  {
+    "check_name": "latest_reviews_answered_before_customer_delivery",
+    "observed_count": 4653
+  },
+  {
+    "check_name": "maximum_reviews_per_order",
+    "observed_count": 3
+  },
+  {
+    "check_name": "orders_tied_on_latest_review_timestamps",
+    "observed_count": 0
+  },
+  {
+    "check_name": "orders_with_conflicting_scores",
+    "observed_count": 202
+  },
+  {
+    "check_name": "orders_with_multiple_reviews",
+    "observed_count": 547
+  },
+  {
+    "check_name": "raw_review_join_delivered_rows",
+    "observed_count": 97007
+  },
+  {
+    "check_name": "review_records",
+    "observed_count": 99224
+  },
+  {
+    "check_name": "reviews_missing_timestamps",
+    "observed_count": 0
+  },
+  {
+    "check_name": "reviews_with_invalid_timestamps",
+    "observed_count": 0
+  },
+  {
+    "check_name": "reviews_without_matching_orders",
+    "observed_count": 0
+  }
+]

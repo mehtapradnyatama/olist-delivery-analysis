@@ -1,0 +1,74 @@
+[
+  {
+    "check_name": "customer_records",
+    "observed_count": 99441
+  },
+  {
+    "check_name": "duplicate_customer_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "duplicate_order_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "invalid_order_timestamps",
+    "observed_count": 0
+  },
+  {
+    "check_name": "invalid_review_scores",
+    "observed_count": 0
+  },
+  {
+    "check_name": "invalid_review_timestamps",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_customer_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_customer_states",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_order_customer_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_order_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_order_statuses",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_purchase_timestamps",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_review_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "missing_review_order_ids",
+    "observed_count": 0
+  },
+  {
+    "check_name": "negative_delivered_durations",
+    "observed_count": 0
+  },
+  {
+    "check_name": "order_records",
+    "observed_count": 99441
+  },
+  {
+    "check_name": "orders_without_customers",
+    "observed_count": 0
+  },
+  {
+    "check_name": "reviews_without_orders",
+    "observed_count": 0
+  }
+]

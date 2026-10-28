@@ -1,0 +1,92 @@
+{
+  "duckdb_version": "1.4.5",
+  "outputs": {
+    "customer_review_comparison": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 4
+    },
+    "delivery_duration": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 1
+    },
+    "delivery_summary": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 1
+    },
+    "monthly_delivery_performance": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 23
+    },
+    "regional_delivery_performance": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 27
+    },
+    "review_data_quality": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 17
+    },
+    "source_data_quality": {
+      "formats": [
+        "csv",
+        "json"
+      ],
+      "rows": 18
+    }
+  },
+  "schema_version": 1,
+  "sources": {
+    "olist_customers_dataset.csv": {
+      "sha256": "983a422239e1712ded753b3bf9ecf47dc73f144d306029dcfa99e70a226883d2"
+    },
+    "olist_order_reviews_dataset.csv": {
+      "sha256": "012b61c7593e34f51fa614efdf802b9c7056ce6aae5307ddb93236e7cfc797d7"
+    },
+    "olist_orders_dataset.csv": {
+      "sha256": "8df58ef3d2d7e9944010f7beecd9b75367f5588ec6e3c91cec19ae3345ef9ecf"
+    }
+  },
+  "sql_files": {
+    "00_prepare_data.sql": {
+      "sha256": "73b8b489b669a254e9830e4bf783d039547bad65e092c50bdcefff00970bdfdd"
+    },
+    "00_source_data_quality.sql": {
+      "sha256": "a7ba872806f081ba5c397fdd82458f0609d385519712f0a3e11c29944e7a9f5f"
+    },
+    "02_delivery_performance.sql": {
+      "sha256": "ed882f9e32a3c27ba2ea521b4fcf1c92c2fcb84db0ff9366b09969800ae3cbc9"
+    },
+    "05_monthly_delivery_performance.sql": {
+      "sha256": "06e4b7b647c0dc81d0fcf653dd3582a72c4e75342abf277ec75a9b9fe7f9f603"
+    },
+    "06_delivery_duration.sql": {
+      "sha256": "28c2f7bd1a47e096cea5ac65a2ee62499803d612a735a31fe4d7bba4339a1152"
+    },
+    "07_regional_delivery_performance.sql": {
+      "sha256": "09be0205310b3e05e50bd1e2b475b5836727d523c6a180f2fb852e5f416670b5"
+    },
+    "08_review_data_quality.sql": {
+      "sha256": "9af13061c2e0d71080ae27564049355642db3b5711279f1025f9c0665efb2a08"
+    },
+    "09_customer_review_comparison.sql": {
+      "sha256": "36972fa869d3a5323d0222370c5e2a90fa48ca47e2795d20f228e6e1922702d1"
+    }
+  }
+}

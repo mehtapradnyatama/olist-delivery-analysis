@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+.cache/
+*.py[cod]
+~$*
+
+# Keep source data and dataset archives local.
+dataset/*.csv
+dataset/*.zip
+
+# Personal exercises are separate from portfolio deliverables.
+practice/
+
+# Keep the original order-level practice workbook local.
+/delivery_analysis.xlsx
+*.xlsx.inspect.ndjson

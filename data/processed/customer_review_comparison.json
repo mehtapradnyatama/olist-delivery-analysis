@@ -1,0 +1,34 @@
+[
+  {
+    "average_review_score": 2.27,
+    "delivery_timeliness": "Late",
+    "low_rating_orders": 3983,
+    "low_rating_rate_pct": 62.42,
+    "review_sample": "All latest reviews",
+    "reviewed_orders": 6381
+  },
+  {
+    "average_review_score": 4.29,
+    "delivery_timeliness": "On time",
+    "low_rating_orders": 8289,
+    "low_rating_rate_pct": 9.27,
+    "review_sample": "All latest reviews",
+    "reviewed_orders": 89443
+  },
+  {
+    "average_review_score": 3.72,
+    "delivery_timeliness": "Late",
+    "low_rating_orders": 371,
+    "low_rating_rate_pct": 19.44,
+    "review_sample": "Answered on/after delivery",
+    "reviewed_orders": 1908
+  },
+  {
+    "average_review_score": 4.29,
+    "delivery_timeliness": "On time",
+    "low_rating_orders": 8258,
+    "low_rating_rate_pct": 9.25,
+    "review_sample": "Answered on/after delivery",
+    "reviewed_orders": 89263
+  }
+]

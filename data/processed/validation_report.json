@@ -1,0 +1,575 @@
+{
+  "aggregate_checks_passed": 142,
+  "checks": [
+    {
+      "check": "delivery categories reconcile",
+      "passed": true
+    },
+    {
+      "check": "delivered population reconciles",
+      "passed": true
+    },
+    {
+      "check": "late overall rate is correct",
+      "passed": true
+    },
+    {
+      "check": "on_time overall rate is correct",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance has unique nonmissing groups",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: delivered_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: unknown_timeliness_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: eligible_delivered_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: late_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: on_time_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2016-09-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2016-09-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2016-10-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2016-10-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2016-12-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2016-12-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-01-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-01-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-02-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-02-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-03-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-03-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-04-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-04-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-05-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-05-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-06-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-06-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-07-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-07-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-08-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-08-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-09-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-09-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-10-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-10-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-11-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-11-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2017-12-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2017-12-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-01-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-01-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-02-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-02-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-03-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-03-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-04-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-04-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-05-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-05-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-06-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-06-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-07-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-07-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: categories reconcile for 2018-08-01",
+      "passed": true
+    },
+    {
+      "check": "monthly_delivery_performance: rate is correct for 2018-08-01",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance has unique nonmissing groups",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: delivered_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: unknown_timeliness_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: eligible_delivered_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: late_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: on_time_orders reconciles",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for AL",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for AL",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for MA",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for MA",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for SE",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for SE",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for PI",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for PI",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for CE",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for CE",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for RR",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for RR",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for BA",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for BA",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for RJ",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for RJ",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for PA",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for PA",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for ES",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for ES",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for PB",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for PB",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for TO",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for TO",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for MS",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for MS",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for PE",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for PE",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for RN",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for RN",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for SC",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for SC",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for GO",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for GO",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for RS",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for RS",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for MT",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for MT",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for DF",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for DF",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for MG",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for MG",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for SP",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for SP",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for PR",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for PR",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for AC",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for AC",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for AP",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for AP",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for RO",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for RO",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: categories reconcile for AM",
+      "passed": true
+    },
+    {
+      "check": "regional_delivery_performance: rate is correct for AM",
+      "passed": true
+    },
+    {
+      "check": "invalid_review_scores is zero",
+      "passed": true
+    },
+    {
+      "check": "reviews_missing_timestamps is zero",
+      "passed": true
+    },
+    {
+      "check": "reviews_with_invalid_timestamps is zero",
+      "passed": true
+    },
+    {
+      "check": "reviews_without_matching_orders is zero",
+      "passed": true
+    },
+    {
+      "check": "orders_tied_on_latest_review_timestamps is zero",
+      "passed": true
+    },
+    {
+      "check": "latest_review_join_delivered_rows preserves delivered orders",
+      "passed": true
+    },
+    {
+      "check": "latest_review_join_distinct_delivered_orders preserves delivered orders",
+      "passed": true
+    },
+    {
+      "check": "one selected review per reviewed order",
+      "passed": true
+    },
+    {
+      "check": "review sample/group pairs are unique",
+      "passed": true
+    },
+    {
+      "check": "valid rating summary for All latest reviews/Late",
+      "passed": true
+    },
+    {
+      "check": "low-rating denominator for All latest reviews/Late",
+      "passed": true
+    },
+    {
+      "check": "review subset size for All latest reviews/Late",
+      "passed": true
+    },
+    {
+      "check": "valid rating summary for All latest reviews/On time",
+      "passed": true
+    },
+    {
+      "check": "low-rating denominator for All latest reviews/On time",
+      "passed": true
+    },
+    {
+      "check": "review subset size for All latest reviews/On time",
+      "passed": true
+    },
+    {
+      "check": "valid rating summary for Answered on/after delivery/Late",
+      "passed": true
+    },
+    {
+      "check": "low-rating denominator for Answered on/after delivery/Late",
+      "passed": true
+    },
+    {
+      "check": "review subset size for Answered on/after delivery/Late",
+      "passed": true
+    },
+    {
+      "check": "valid rating summary for Answered on/after delivery/On time",
+      "passed": true
+    },
+    {
+      "check": "low-rating denominator for Answered on/after delivery/On time",
+      "passed": true
+    },
+    {
+      "check": "review subset size for Answered on/after delivery/On time",
+      "passed": true
+    },
+    {
+      "check": "review coverage does not exceed Late orders",
+      "passed": true
+    },
+    {
+      "check": "review coverage does not exceed On time orders",
+      "passed": true
+    },
+    {
+      "check": "duration sample does not exceed delivered population",
+      "passed": true
+    },
+    {
+      "check": "average_delivery_days is valid",
+      "passed": true
+    },
+    {
+      "check": "median_delivery_days is valid",
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "source_checks_passed": true
+}

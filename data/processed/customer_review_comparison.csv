@@ -1,0 +1,5 @@
+review_sample,delivery_timeliness,reviewed_orders,average_review_score,low_rating_orders,low_rating_rate_pct
+All latest reviews,Late,6381,2.27,3983,62.42
+All latest reviews,On time,89443,4.29,8289,9.27
+Answered on/after delivery,Late,1908,3.72,371,19.44
+Answered on/after delivery,On time,89263,4.29,8258,9.25

@@ -1,0 +1,209 @@
+[
+  {
+    "delivered_orders": 1,
+    "eligible_delivered_orders": 1,
+    "late_delivery_rate_pct": 100.0,
+    "late_orders": 1,
+    "on_time_orders": 0,
+    "purchase_month": "2016-09-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 265,
+    "eligible_delivered_orders": 265,
+    "late_delivery_rate_pct": 0.75,
+    "late_orders": 2,
+    "on_time_orders": 263,
+    "purchase_month": "2016-10-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 1,
+    "eligible_delivered_orders": 1,
+    "late_delivery_rate_pct": 0.0,
+    "late_orders": 0,
+    "on_time_orders": 1,
+    "purchase_month": "2016-12-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 750,
+    "eligible_delivered_orders": 750,
+    "late_delivery_rate_pct": 2.93,
+    "late_orders": 22,
+    "on_time_orders": 728,
+    "purchase_month": "2017-01-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 1653,
+    "eligible_delivered_orders": 1653,
+    "late_delivery_rate_pct": 2.96,
+    "late_orders": 49,
+    "on_time_orders": 1604,
+    "purchase_month": "2017-02-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 2546,
+    "eligible_delivered_orders": 2546,
+    "late_delivery_rate_pct": 4.56,
+    "late_orders": 116,
+    "on_time_orders": 2430,
+    "purchase_month": "2017-03-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 2303,
+    "eligible_delivered_orders": 2303,
+    "late_delivery_rate_pct": 6.56,
+    "late_orders": 151,
+    "on_time_orders": 2152,
+    "purchase_month": "2017-04-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 3546,
+    "eligible_delivered_orders": 3545,
+    "late_delivery_rate_pct": 2.99,
+    "late_orders": 106,
+    "on_time_orders": 3439,
+    "purchase_month": "2017-05-01",
+    "unknown_timeliness_orders": 1
+  },
+  {
+    "delivered_orders": 3135,
+    "eligible_delivered_orders": 3135,
+    "late_delivery_rate_pct": 3.03,
+    "late_orders": 95,
+    "on_time_orders": 3040,
+    "purchase_month": "2017-06-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 3872,
+    "eligible_delivered_orders": 3872,
+    "late_delivery_rate_pct": 2.79,
+    "late_orders": 108,
+    "on_time_orders": 3764,
+    "purchase_month": "2017-07-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 4193,
+    "eligible_delivered_orders": 4193,
+    "late_delivery_rate_pct": 2.91,
+    "late_orders": 122,
+    "on_time_orders": 4071,
+    "purchase_month": "2017-08-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 4150,
+    "eligible_delivered_orders": 4150,
+    "late_delivery_rate_pct": 4.39,
+    "late_orders": 182,
+    "on_time_orders": 3968,
+    "purchase_month": "2017-09-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 4478,
+    "eligible_delivered_orders": 4478,
+    "late_delivery_rate_pct": 4.18,
+    "late_orders": 187,
+    "on_time_orders": 4291,
+    "purchase_month": "2017-10-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 7289,
+    "eligible_delivered_orders": 7288,
+    "late_delivery_rate_pct": 12.4,
+    "late_orders": 904,
+    "on_time_orders": 6384,
+    "purchase_month": "2017-11-01",
+    "unknown_timeliness_orders": 1
+  },
+  {
+    "delivered_orders": 5513,
+    "eligible_delivered_orders": 5513,
+    "late_delivery_rate_pct": 7.46,
+    "late_orders": 411,
+    "on_time_orders": 5102,
+    "purchase_month": "2017-12-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 7069,
+    "eligible_delivered_orders": 7069,
+    "late_delivery_rate_pct": 5.7,
+    "late_orders": 403,
+    "on_time_orders": 6666,
+    "purchase_month": "2018-01-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 6555,
+    "eligible_delivered_orders": 6555,
+    "late_delivery_rate_pct": 14.13,
+    "late_orders": 926,
+    "on_time_orders": 5629,
+    "purchase_month": "2018-02-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 7003,
+    "eligible_delivered_orders": 7003,
+    "late_delivery_rate_pct": 18.96,
+    "late_orders": 1328,
+    "on_time_orders": 5675,
+    "purchase_month": "2018-03-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 6798,
+    "eligible_delivered_orders": 6798,
+    "late_delivery_rate_pct": 4.5,
+    "late_orders": 306,
+    "on_time_orders": 6492,
+    "purchase_month": "2018-04-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 6749,
+    "eligible_delivered_orders": 6749,
+    "late_delivery_rate_pct": 6.56,
+    "late_orders": 443,
+    "on_time_orders": 6306,
+    "purchase_month": "2018-05-01",
+    "unknown_timeliness_orders": 0
+  },
+  {
+    "delivered_orders": 6099,
+    "eligible_delivered_orders": 6096,
+    "late_delivery_rate_pct": 1.16,
+    "late_orders": 71,
+    "on_time_orders": 6025,
+    "purchase_month": "2018-06-01",
+    "unknown_timeliness_orders": 3
+  },
+  {
+    "delivered_orders": 6159,
+    "eligible_delivered_orders": 6156,
+    "late_delivery_rate_pct": 3.38,
+    "late_orders": 208,
+    "on_time_orders": 5948,
+    "purchase_month": "2018-07-01",
+    "unknown_timeliness_orders": 3
+  },
+  {
+    "delivered_orders": 6351,
+    "eligible_delivered_orders": 6351,
+    "late_delivery_rate_pct": 6.19,
+    "late_orders": 393,
+    "on_time_orders": 5958,
+    "purchase_month": "2018-08-01",
+    "unknown_timeliness_orders": 0
+  }
+]

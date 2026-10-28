@@ -1,0 +1,11 @@
+[
+  {
+    "eligible_delivered_orders": 96470,
+    "late_delivery_rate_pct": 6.77,
+    "late_orders": 6534,
+    "on_time_delivery_rate_pct": 93.23,
+    "on_time_orders": 89936,
+    "total_delivered_orders": 96478,
+    "unknown_timeliness_orders": 8
+  }
+]
