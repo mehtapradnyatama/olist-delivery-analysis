@@ -4,6 +4,8 @@ An operations case study using the [Olist Brazilian E-Commerce Dataset](https://
 
 **SQL / DuckDB · Python · Excel · Tableau**
 
+[View the interactive Tableau dashboard](https://public.tableau.com/views/delivery_performance_17932155932300/DeliveryPerformanceOverview)
+
 ## Key findings
 
 Of 96,478 delivered orders, 96,470 have usable delivery dates. Of these, **6,534 arrived late: 6.77%**. Average purchase-to-receipt duration was **12.56 days**, with a median of **10.22 days**.
@@ -44,4 +46,4 @@ The [Excel workbook](excel/delivery_analysis.xlsx) includes formula-based rates 
 
 The [Tableau workbook](tableau/delivery_performance.twbx) contains delivery-rate and eligible-order KPIs, a monthly trend, and a shared date filter. Its default reporting window is January 2017–August 2018: **96,203 eligible orders and a 6.79% late-delivery rate**. The full-period analysis above includes sparse 2016 cohorts, which explains the difference from 6.77%.
 
-The [business assessment](findings/business_analysis.md) sets out investigation priorities, conditional actions, and measures of success. The Tableau workbook is available locally in this repository; publication to Tableau Public is pending.
+The [business assessment](findings/business_analysis.md) sets out investigation priorities, conditional actions, and measures of success. The dashboard is published on [Tableau Public](https://public.tableau.com/views/delivery_performance_17932155932300/DeliveryPerformanceOverview); the packaged workbook is also available in this repository.

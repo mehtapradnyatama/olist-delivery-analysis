@@ -15,3 +15,7 @@ practice/
 # Keep the original order-level practice workbook local.
 /delivery_analysis.xlsx
 *.xlsx.inspect.ndjson
+
+# Tableau temporary and recovery files
+.~*
+*.twbr
